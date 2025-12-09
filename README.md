@@ -2,8 +2,9 @@
 
 A semantic HTML-based CV webpage created as part of my web development learning journey.
 
-🔗 **Live Demo**: [https://saugatojha.github.io/single_page_cv/](https://saugatojha.github.io/single_page_cv/)
-**Project URL**: https://github.com/Saugatojha/single_page_cv
+🔗 **Live Demo**: https://saugatojha.github.io/single_page_cv/
+
+📦 **Repository**: https://github.com/Saugatojha/single_page_cv
 
 ## 📋 Project Overview
 
