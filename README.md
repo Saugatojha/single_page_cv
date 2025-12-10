@@ -6,7 +6,7 @@ A semantic HTML-based CV webpage created as part of my web development learning 
 
 📦 **Repository**: https://github.com/Saugatojha/single_page_cv
 
-** roadmap.sh project url: https://roadmap.sh/projects/single-page-cv **
+**roadmap.sh project url**: https://roadmap.sh/projects/single-page-cv 
 
 ## 📋 Project Overview
 
