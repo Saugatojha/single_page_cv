@@ -6,6 +6,8 @@ A semantic HTML-based CV webpage created as part of my web development learning 
 
 📦 **Repository**: https://github.com/Saugatojha/single_page_cv
 
+** roadmap.sh project demo: https://roadmap.sh/projects/single-page-cv**
+
 ## 📋 Project Overview
 
 This project focuses on building a well-structured, single-page CV using pure HTML with proper semantic markup, SEO optimization, and social media integration.
